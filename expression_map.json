@@ -1,8 +1,17 @@
 {
-  "Miko.angry": "https://h2corp-suiso.github.io/miko-assets/images/Miko.angry.webp",
-  "Miko.fear": "https://h2corp-suiso.github.io/miko-assets/images/Miko.fear.webp",
-  "Miko.neutral": "https://h2corp-suiso.github.io/miko-assets/images/Miko.neutral.webp",
-  "Miko.proud": "https://h2corp-suiso.github.io/miko-assets/images/Miko.proud.webp",
-  "Miko.smile": "https://h2corp-suiso.github.io/miko-assets/images/Miko.smile.webp",
-  "Miko.thinking": "https://h2corp-suiso.github.io/miko-assets/images/Miko.thinking.webp"
+    "Miko.smile": "https://h2corp-suiso.github.io/miko-assets/images/Miko.smile.webp",
+    "Miko.thinking": "https://h2corp-suiso.github.io/miko-assets/images/Miko.thinking.webp",
+    "Miko.angry": "https://h2corp-suiso.github.io/miko-assets/images/Miko.angry.webp",
+    "Miko.fear": "https://h2corp-suiso.github.io/miko-assets/images/Miko.fear.webp",
+    "Miko.neutral": "https://h2corp-suiso.github.io/miko-assets/images/Miko.neutral.webp",
+    "Miko.proud": "https://h2corp-suiso.github.io/miko-assets/images/Miko.proud.webp",
+    "Miko.surprised": "https://h2corp-suiso.github.io/miko-assets/images/Miko.surprised.webp",
+    "Miko.shy": "https://h2corp-suiso.github.io/miko-assets/images/Miko.shy.webp",
+    "Miko.sad": "https://h2corp-suiso.github.io/miko-assets/images/Miko.sad.webp",
+    "Miko.cry": "https://h2corp-suiso.github.io/miko-assets/images/Miko.cry.webp",
+    "Miko.sleepy": "https://h2corp-suiso.github.io/miko-assets/images/Miko.sleepy.webp",
+    "Miko.annoyed": "https://h2corp-suiso.github.io/miko-assets/images/Miko.annoyed.webp",
+    "Miko.wink": "https://h2corp-suiso.github.io/miko-assets/images/Miko.wink.webp",
+    "Miko.excited": "https://h2corp-suiso.github.io/miko-assets/images/Miko.excited.webp",
+    "Miko.embarrassed": "https://h2corp-suiso.github.io/miko-assets/images/Miko.embarrassed.webp"
 }
